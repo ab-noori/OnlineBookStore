@@ -129,9 +129,9 @@ let totallAmount = () => {
     }).reduce((x,y)=>x+y,0);
     // console.log(amount);
     label.innerHTML = `
-    <h2>Total Bill: $ ${amount}</h2>
-    <button class="a">Checkout</button>
-    <button onclick="clearCarts()" class="b">Clear All</button>
+    <h2> سبد خرید: <span>${amount} تومان</span></h2>
+    <button class="a">پرداخت</button>
+    <button onclick="clearCarts()" class="b">حذف همه</button>
     
     `;
   }
