@@ -2,7 +2,7 @@ let shopItemsData = [
     {
     id: "book_31301",
     name: "کتاب ۱۹۸۴",
-    price: '۷۵...',
+    price: '۷۵۰۰۰',
     desc: ".کتاب ۱۹۸۴ اثر جورج اورول نشر شاهدخت پاییز",
     img: "images/img-1.jpg",
   },
