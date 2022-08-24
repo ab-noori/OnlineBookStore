@@ -1,9 +1,9 @@
 let shopItemsData = [
     {
-    id: "jfhgbvnscs",
-    name: "Casual Shirt",
-    price: 45,
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    id: "book_31301",
+    name: "کتاب ۱۹۸۴",
+    price: '۷۵...',
+    desc: ".کتاب ۱۹۸۴ اثر جورج اورول نشر شاهدخت پاییز",
     img: "images/img-1.jpg",
   },
   {
