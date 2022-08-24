@@ -1,3 +1,3 @@
 # shopingland
-small light project.
-project for making git pages.
+small light project,
+for making git pages.
