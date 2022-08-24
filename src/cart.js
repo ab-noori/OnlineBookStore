@@ -44,9 +44,9 @@ let generateCartItems = () => {
     shoppingCart.innerHTML = ``;
 
     label.innerHTML = `
-        <h2>Cart is empty</h2>
+        <h2>سبد خالی است</h2>
         <a href="index.html">
-            <button class="homeBtn">Back to home</button>
+            <button class="homeBtn">بازگشت به صفحه اصلی</button>
             
         </a>
         `;
