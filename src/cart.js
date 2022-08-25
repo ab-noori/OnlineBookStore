@@ -21,10 +21,10 @@ let generateCartItems = () => {
               <img width="95" src=${img} alt="">
               <div class="cart-details">
                 <div class="title-price-x">
-                    <h4 class="title-price">
+                    <h5 class="title-price">
                       <p>${name}</p>
-                      <p class="cart-item-price" >$ ${price}</p>
-                    </h4>
+                      <p class="cart-item-price" > ${price}تومان </p>
+                    </h5>
                     <i onclick="removeItem(${id})" class="bi bi-x-lg"></i>
                 </div>
                 <div class="buttons">
@@ -33,7 +33,7 @@ let generateCartItems = () => {
                   <i onclick="increment(${id})" class="bi bi-plus-lg"></i>
       
                 </div>
-                <h3>$ ${item*price}</h3> 
+                <h4>${item*price} تومان</h4> 
               </div>
             </div>
 
@@ -44,7 +44,7 @@ let generateCartItems = () => {
     shoppingCart.innerHTML = ``;
 
     label.innerHTML = `
-        <h2>سبد خالی است</h2>
+        <h2>سبد خرید شما خالی است</h2>
         <a href="index.html">
             <button class="homeBtn">بازگشت به صفحه اصلی</button>
             
@@ -129,7 +129,7 @@ let totallAmount = () => {
     }).reduce((x,y)=>x+y,0);
     // console.log(amount);
     label.innerHTML = `
-    <h2> سبد خرید: <span>${amount} تومان</span></h2>
+    <h2> مبلغ قابل پرداخت: <span>${amount} تومان</span></h2>
     <button class="a">پرداخت</button>
     <button onclick="clearCarts()" class="b">حذف همه</button>
     
