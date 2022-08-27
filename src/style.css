@@ -144,7 +144,7 @@ a{
 
 .shopping-cart{
     display: grid;
-    grid-template-columns: repeat(1, 276px);
+    grid-template-columns: repeat(1, 300px);
     justify-content: center; 
     gap: 15px;
 
@@ -157,16 +157,20 @@ a{
 }
 
 .title-price-x{
-    width: 166px;
+    width: 192px;
     display: flex;
     align-items: center;
+    /* border: 1px solid blue; */
     justify-content: space-between;
 }
 
 .title-price{
+    width: 175px;
     display: flex;
     align-items: center;
-    gap: 5px;
+    justify-content: space-between;
+    gap: 4px;
+    /* border: 1px solid red; */
 }
 
 .cart-item-price{
@@ -174,6 +178,7 @@ a{
     color: white;
     border-radius: 4px;
     padding: 3px 6px;
+    white-space: nowrap;
 }
 
 .cart-details{

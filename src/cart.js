@@ -23,7 +23,7 @@ let generateCartItems = () => {
                 <div class="title-price-x">
                     <h5 class="title-price">
                       <p>${name}</p>
-                      <p class="cart-item-price" > ${price}تومان </p>
+                      <p class="cart-item-price" > ${price} تومان</p>
                     </h5>
                     <i onclick="removeItem(${id})" class="bi bi-x-lg"></i>
                 </div>
