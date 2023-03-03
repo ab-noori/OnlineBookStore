@@ -66,7 +66,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://ab-noori.github.io/Project-Template/)
+- [Live Demo Link](https://ab-noori.github.io/OnlineBookStore/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
