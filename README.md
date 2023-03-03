@@ -2,39 +2,13 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="images/project-image.png" alt="logo" width="500"  height="auto" />
-  <br/>
+> # Online Book Store
 
-  <h3><b></b></h3>
 
-</div>
-
-<!-- Open pull request using the following structure
-
-  ## Project title: subtitle
-
-  ### 🌟Branch features:
-
-  - i
-  - ii
-  - iii
-
-  ### [ 🚀 Branch Demo](https://ab-noori.github.io/Project-Template/)
-
--->
-
-> # Template Repository
-### Desktop view shoots for this project:
-
-| Desktop Veiw Representation|
+| Project Shoots Representation|
 |---------------------------------------|
 |![screenshot](images/desk-shot1.PNG)|
-|![screenshot](images/mob-shot3.PNG)|
-
-| Mobile version representation |
-|---------------------------------------|
+|<div align="center">![screenshot](images/mob-shot3.PNG)</div>|
 |<div align="center"><img src="./images/mob-shot1.PNG" alt="logo" width="300"  height="auto"/><img src="./images/mob-shot2.PNG" alt="logo" width="300"  height="auto"/></div>|
 
 <!-- TABLE OF CONTENTS -->
@@ -51,8 +25,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
