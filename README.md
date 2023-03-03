@@ -45,7 +45,7 @@
 - <summary>Client</summary>
     <ul>
       <li><a href="https://reactjs.org/">HTML</a></li>
-      <li><a href="https://reactjs.org/">Bootstrap</a></li>
+      <li><a href="https://reactjs.org/">CSS</a></li>
       <li><a href="https://reactjs.org/">JavaScript</a></li>
     </ul>
 
@@ -88,7 +88,7 @@ Clone this repository to your desired folder:
 - Use the following Commands:
 
       cd your-desired-folder
-      git clone git@github.com:ab-noori/Project-Template.git
+      git clone git@github.com:ab-noori/OnlineBookStore.git
 
 
 ### Install
@@ -123,10 +123,6 @@ You can deploy this project using:
 - Twitter: [@AbdulAliNoori4](https://twitter.com/AbdulAliNoori4)
 - LinkedIn: [abdul-ali-noori](https://www.linkedin.com/in/abdul-ali-noori-384b85195/)
 
-👤 **Samson Tush**
-
-- GitHub: [@Samson](https://github.com/SamTush)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -155,7 +151,7 @@ Feel free to check the [issues page](https://github.com/ab-noori/Awesome-Books/i
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-  I would like to thank Microverse and my coding partners, and also give credit to Traversy Media
+  I would like to thank Microverse and my coding partners, and also give credit to FreeCodeCamp
 YouTub Channel, I really learned a lot from this channel.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
