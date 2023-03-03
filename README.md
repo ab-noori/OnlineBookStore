@@ -35,11 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Online Book Store] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+> **[Online Book Store]** is a simple book store with vanilla JavaScript. You can select multiple numbers of books. Adding them to cart, removing them from cart, decreasing and increasing the cart amount and calculating the total cost of the cart.
 
 ## 🛠 Built With <a name="built-with"></a>
 
