@@ -65,7 +65,7 @@
 > Add a link to your deployed project.
 
 - [Live Demo On Gh-pages](https://ab-noori.github.io/OnlineBookStore/)
-- [Live Demo On Render](https://ab-noori.github.io/OnlineBookStore/)
+- [Live Demo On Render](https://onlinebookstore-gbte.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
